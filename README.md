@@ -34,10 +34,12 @@ Once the update goes through, show the customer the total cost of their purchase
 
 ![](img/node2.png)
 
-* After selecting the unit #, the inventory will prompt updated stock inventory.
+* After selecting certain number of units, the inventory will prompt updated stock inventory.
+
 ![](img/node3.png)
 
 *_If_ user selects more than what its currently in stock, a message will populate advising item is currently not in stock.
+
 ![](img/node4.png)
 
 
