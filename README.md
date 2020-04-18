@@ -48,5 +48,10 @@ Once the update goes through, show the customer the total cost of their purchase
 
 #### _Please refer to ID 1 & 2 (toilet paper, August Smartlock) for the example Screenshots_.
 
+# Technology Used
 
+1. MySql
+2. Node js
+3. Javascript
+4. NPM Pachages (express, cli-table, inquirer)
 
