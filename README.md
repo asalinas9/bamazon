@@ -22,6 +22,7 @@ Once the update goes through, show the customer the total cost of their purchase
 ## Screenshot examples:
 
 ### MySQL Database:
-![](images/mysqlDB.png)
 
-![](images/mysqlDB2.png)
+![](img/mysqlDB.png)
+
+![](img/mysqlDB2.png)
