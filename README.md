@@ -46,7 +46,7 @@ Once the update goes through, show the customer the total cost of their purchase
 
 ![](img/node5.png)
 
-#### _Please refer to ID 1 (toilet paper) for the example Screenshots_.
+#### _Please refer to ID 1 & 2 (toilet paper, August Smartlock) for the example Screenshots_.
 
 
 
