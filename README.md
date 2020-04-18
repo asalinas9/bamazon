@@ -42,7 +42,7 @@ Once the update goes through, show the customer the total cost of their purchase
 
 ![](img/node4.png)
 
-#### _Please refer to ID 1 (toilet paper) for the example Screenshots.
+#### _Please refer to ID 1 (toilet paper) for the example Screenshots_.
 
 
 
