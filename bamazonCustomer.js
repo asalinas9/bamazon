@@ -108,8 +108,8 @@ function startPurchase() {
                     var update = "UPDATE products SET stock_quantity = " + updateStock + " WHERE item_id = " + userResponse.itemId;
                     connection.query(update, function (error, response) {
                         if (error) throw error
-                        console.log("Transaction complete! The total cost of your purchase was: $" + totalCost + ".")
-                        console.log("Please come back again.")
+                        console.log("Transaction complete! The total cost for your purchase is: $" + totalCost + ".")
+                        console.log("Please visit us again.")
                     })
                 }
             })
