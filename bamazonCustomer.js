@@ -32,7 +32,7 @@ function displayItems() {
                 break;
             case "Exit":
                 connection.end();
-                console.log("You have exited the program. Please come again!")
+                console.log("You have exited the store. Please visit us again!")
                 break;
         }
     })
@@ -42,7 +42,7 @@ function inventoryItem() {
     var query = "SELECT * FROM products";
     connection.query(query, function (error, response) {
         if (error) throw error;
-        var divider = "\n---------------------------\n";
+        var divider = "\n-------------------------\n";
         var greeting = "\n" + "Here is what we have in stock" + "\n"
         console.log(greeting);
         //using Cli-Table to make the DB on terminal cleaner.
